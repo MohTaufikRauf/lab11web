@@ -42,3 +42,26 @@ manual.
 
 ![3](img/3.png)
 
+## Menjalankan CLI (Command Line Interface)
+Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk
+mengakses CLI buka terminal/command prompt.
+
+![4](img/4.png)
+
+Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat
+(xampp/htdocs/lab11_ci/ci4/)
+Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:
+```
+php spark
+```
+
+
+![5](img/5.png)
+
+Mengaktifkan Mode Debugging
+Codeigniter 4 menyediakan fitur debugging untuk memudahkan developer untuk
+mengetahui pesan error apabila terjadi kesalahan dalam membuat kode program.
+
+
+Secara default fitur ini belum aktif. Ketika terjadi error pada aplikasi akan ditampilkan
+pesan kesalahan seperti berikut.

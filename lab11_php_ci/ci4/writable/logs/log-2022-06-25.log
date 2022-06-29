@@ -1,0 +1,104 @@
+CRITICAL - 2022-06-25 01:55:26 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:03:00 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:03:32 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:03:38 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:03:53 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:06:42 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:06:45 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:07:58 --> Invalid file: user/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('user/login', [], true)
+ 3 APPPATH\Controllers\User.php(20): view('user/login')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\User->login()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:25:52 --> syntax error, unexpected token "function", expecting ")"
+in APPPATH\Config\Routes.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(417): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:26:47 --> syntax error, unexpected token "function", expecting ")"
+in APPPATH\Config\Routes.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(417): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:27:50 --> syntax error, unexpected token "function", expecting ")"
+in APPPATH\Config\Routes.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(417): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-06-25 02:27:54 --> syntax error, unexpected token "function", expecting ")"
+in APPPATH\Config\Routes.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(417): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
